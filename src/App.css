@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+
+footer {
+  font-size: 10px;
+  color: grey;
+  margin-top: 200px;
+}
