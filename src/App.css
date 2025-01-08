@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  margin: 50px;
+}
+
+.App form {
+  margin-bottom: 30px;
 }
 
 footer {
