@@ -1,0 +1,61 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-decoration: underline;
+  font-size: 18px;
+}
+p {
+  margin: 0;
+}
+
+a {
+  color: #ff5731;
+}
+
+strong {
+  color: whitesmoke;
+  text-transform: capitalize;
+}
+
+form {
+  text-align: center;
+
+  border-radius: 10px;
+  border: 0 !important;
+  border-color: #ffdcd2 !important;
+}
+input {
+}
+.form-control-plaintext {
+  width: auto;
+  margin: 0 auto;
+  color: #ff5731;
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: auto 0;
+}
+.section {
+  background-color: #d1b7ff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 8px 0px rgba(60, 64, 67, 0.25);
+}
+.phonetic {
+  font-size: 18px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.definition {
+  color: #ff5731;
+}

@@ -1,13 +1,11 @@
 .App {
   margin: 50px;
-}
-
-.App form {
-  margin-bottom: 30px;
+  font-family: "Bodoni Moda", serif;
 }
 
 footer {
   font-size: 10px;
   color: grey;
-  margin-top: 200px;
+  margin-top: 20px;
+  text-align: center;
 }

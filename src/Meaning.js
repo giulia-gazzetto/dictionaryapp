@@ -4,10 +4,10 @@ import Synonyms from "./Synonyms";
 
 export default function Meaning(props) {
   return (
-    <div className="Meanings">
-      <h3>{props.meaning.partOfSpeech}</h3>
+    <div className=" Meanings section">
+      <h3 className="text-capitalize">{props.meaning.partOfSpeech}</h3>
       <p>
-        <strong>Definition: </strong>
+        <strong className="definition">Definition: </strong>
         {props.meaning.definition}
         <Example example={props.meaning.example} />
 
